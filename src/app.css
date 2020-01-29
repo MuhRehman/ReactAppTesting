@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
+body {
+    }
+.top-area {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(144, 143, 143);
+    height: 100px;
+}
+.brand-logo-right img{
+    height: 90px;
+    width: 90px;
+}
+.brand-logo img{
+    height: 90px;
+    width: 90px;
+}
+
+ul li a {
+    font-family: 'Acme', sans-serif;
+   font-size: 22px;
+}
+.slogan {
+    font-size: 24px;
+    /* align-content: center; */
+    align-self: center;
+    height: 90px;
+}
+h3 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+h2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.nav-link i{
+margin-right: 8px;
+}
+.nav-item {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.footer{
+    background-color: rgb(195, 195, 195);
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+height: 8%;
+  color: rgb(0, 0, 0);
+
+  text-align: center;
+}
+.footer h4{
+margin-top: 12px;
+}
+.nav-item:hover {
+    text-decoration: underline;
+    
+}
+.nav-item  img {
+    width: 30px;
+    height: 30px;
+    margin-top: 8px;
+}
+.nav-link {
+    color: black !important;
+}
